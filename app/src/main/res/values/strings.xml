@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">GitHubSample</string>
+    <string name="app_name" translatable="false">GitHubSample</string>
+    <string name="name">name</string>
 </resources>
